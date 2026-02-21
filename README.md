@@ -43,3 +43,18 @@ Certain engine types are more preferred and sold more frequently
 
 
 This project helped in understanding how to approach a dataset, clean it, visualize important trends, and generate meaningful business insights using Python.
+
+
+Project Screenshort:
+
+
+
+
+<img width="742" height="369" alt="Screenshot 2026-02-21 174759" src="https://github.com/user-attachments/assets/343eebd5-b8b0-4765-9df3-71b0ec6ca14d" />
+
+
+<img width="725" height="374" alt="Screenshot 2026-02-21 174837" src="https://github.com/user-attachments/assets/3cd04673-455d-4d10-9aaa-5b8997fa59b6" />
+<img width="740" height="368" alt="Screenshot 2026-02-21 174909" src="https://github.com/user-attachments/assets/ca36f2a8-1552-4afa-928f-510b38b338a1" />
+<img width="808" height="367" alt="Screenshot 2026-02-21 175013" src="https://github.com/user-attachments/assets/514452b6-50d5-4f92-86f5-bffd95b00955" />
+<img width="806" height="377" alt="Screenshot 2026-02-21 175102" src="https://github.com/user-attachments/assets/30c505cd-670c-44f4-803c-e84dcbe1034a" />
+<img width="803" height="375" alt="Screenshot 2026-02-21 175035" src="https://github.com/user-attachments/assets/5c1990b9-64e9-45bf-b36e-17a4e0025054" />
